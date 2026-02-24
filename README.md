@@ -1,4 +1,4 @@
-Hi, I'm [Your Name]! 🚀
+Hi, I'm Harel! 🚀
 Junior DevOps Engineer | Automation & Cloud Enthusiast
 I am a passionate Junior DevOps Engineer focused on streamlining the software development lifecycle. I thrive on turning manual, repetitive tasks into automated, "set-it-and-forget-it" workflows.
 

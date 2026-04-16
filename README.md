@@ -1,99 +1,44 @@
-# 👋 Hey there! I'm Harel
+# 👋 I'm Harel Valfish
 
-## 🚀 Junior DevOps Engineer
-
-Welcome to my DevOps journey! I'm passionate about automating infrastructure, streamlining deployments, and building robust CI/CD pipelines.
+**Junior DevOps Engineer** | Focused on automating workflows, managing Linux environments, and building reliable infrastructure. Currently bridging the gap between Python-based development and full-stack DevOps orchestration.
 
 ---
 
-## 🎯 About Me
+### 💻 Technical Arsenal
 
-🔧 **Currently Learning:**
-- Docker containerization and orchestration
-- CI/CD pipeline automation
-- Infrastructure as Code (Terraform, Ansible)
-- Cloud platforms and services
-- Linux and system administration
-
-💡 **My Focus Areas:**
-- Automation and efficiency
-- Deployment optimization
-- Infrastructure reliability
-- DevOps best practices
+| Category | Technologies |
+| :--- | :--- |
+| **Proficient** | Linux, Python, Flask API, Git/GitHub, Bash, HTML, CSS, JavaScript |
+| **Learning Path** | Kubernetes, Containers, Docker, AWS, Terraform, Jenkins, Helm |
 
 ---
 
-## 💻 Tech Stack
+### 🚀 Key Projects
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=flat-square)
-
-### Web Fundamentals
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+* **Argument Capital**: A Python-based banking application featuring a custom GUI and secure data logic.
+* **Flask Microservices**: Developing RESTful APIs to handle backend logic and data persistence.
+* **Linux Labs**: Comprehensive scripts focusing on I/O redirection, process management, and systemd services.
+* **Network Infrastructure**: Configuring robust access points and local environments for virtualization and lab testing.
 
 ---
 
-## 📚 My Learning Projects
+### 🎯 Current Focus
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 🐳 Docker Containerization | Learning containerization and deployment | Docker, Containers |
-| 🔄 CI/CD Pipelines | Building automation pipelines | Git, GitHub Actions, Jenkins |
-| 🏗️ Infrastructure as Code | Managing infrastructure programmatically | Terraform, Ansible |
+* ☁️ Deploying **Flask** applications to **AWS** using **Terraform** and **Docker**.
+* 📦 Mastering **Kubernetes** orchestration and **Container** lifecycle management via **Helm** charts.
+* 🛠️ **Personal**: Building detailed 1:35 scale military models and exploring hardware optimization.
 
 ---
 
-## 🌐 Connect With Me
+### 📬 Let's Connect
 
-📧 **Email:** [harelvalfish@gmail.com](mailto:harelvalfish@gmail.com)
-
-💼 **LinkedIn:** [Harel Valfish](https://www.linkedin.com/in/harel-valfish-8559293b2/)
-
-🐙 **GitHub:** [@HarelValfish](https://github.com/HarelValfish)
-
-🌍 **Portfolio:** [My DevOps Portfolio](./my-first-website/index.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harel-valfish/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harelvalfish@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harelvalfish)
 
 ---
 
-## 🎓 Learning Path
+### 📊 Stats
 
-```
-📌 Foundation
-  ├─ Linux Basics
-  ├─ Scripting
-  └─ Version Control (Git)
-
-📌 Containerization
-  ├─ Docker
-  ├─ Container Orchestration
-  └─ Image Management
-
-📌 CI/CD & Automation
-  ├─ Pipeline Creation
-  ├─ Automation Tools
-  └─ Testing Frameworks
-
-📌 Infrastructure
-  ├─ Cloud Platforms
-  ├─ Infrastructure as Code
-  └─ Configuration Management
-```
-
----
-
-## 💬 Let's Connect!
-
-I'm always excited to collaborate, learn, and grow in the DevOps field. Feel free to reach out for:
-- 🤝 Collaboration opportunities
-- 📖 Knowledge sharing
-- 💬 DevOps discussions
-- 🚀 Project ideas
-
----
-
-**Made with ❤️ by Harel** | *DevOps Enthusiast*
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harelvalfish&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harelvalfish&layout=compact&theme=tokyonight&hide_border=true)

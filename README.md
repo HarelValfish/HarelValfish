@@ -16,6 +16,7 @@
 ### 🚀 Key Projects
 
 * **Argument Capital**: A Python-based banking application featuring a custom GUI and secure data logic.
+* **E-Commerce PC accessories website**: https://github.com/HarelValfish/Accessories-website
 * **Flask Microservices**: Developing RESTful APIs to handle backend logic and data persistence.
 * **Linux Labs**: Comprehensive scripts focusing on I/O redirection, process management, and systemd services.
 * **Network Infrastructure**: Configuring robust access points and local environments for virtualization and lab testing.

@@ -1,4 +1,4 @@
-# 👋 I'm Harel Valfish
+# Hey there, I'm Harel Valfish
 
 **Junior DevOps Engineer** | Focused on automating workflows, managing Linux environments, and building reliable infrastructure. Currently bridging the gap between Python-based development and full-stack DevOps orchestration.
 

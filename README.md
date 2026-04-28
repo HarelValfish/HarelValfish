@@ -18,17 +18,7 @@
 | Title | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**E-Commerce PC Accessories Website**](https://github.com/HarelValfish/Accessories-website) | A full-stack e-commerce platform featuring a custom catalog of high-end PC peripherals, secure user authentication, and a streamlined shopping cart experience. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-
-* **Argument Capital**: A Python-based banking application featuring a custom GUI and secure data logic.
-* **E-Commerce PC accessories website**: https://github.com/HarelValfish/Accessories-website
-* **Flask Microservices**: Developing RESTful APIs to handle backend logic and data persistence.
-* **Linux Labs**: Comprehensive scripts focusing on I/O redirection, process management, and systemd services.
-* **Network Infrastructure**: Configuring robust access points and local environments for virtualization and lab testing.
-
-| Title | Description | Tech Stack |
-| :--- | :--- | :--- |
-| Project Title | Short description goes here. | List tools or use badges. |
-| | | |
+| [**Argument Capital**](https://github.com/toni7891/Argument-Capital) | A Python-based banking application featuring a custom GUI and secure data logic. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ---
 

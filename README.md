@@ -8,8 +8,8 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Proficient** | Linux, Python, Flask API, Git/GitHub, Bash, HTML, CSS, JavaScript |
-| **Learning Path** | Kubernetes, Containers, Docker, AWS, Terraform, Jenkins, Helm |
+| **Proficient** | Linux, Python, Flask API, Git/GitHub, Bash, HTML, CSS, JavaScript, AWS, Docker |
+| **Learning Path** | Kubernetes, Containers, Terraform, Jenkins, Helm |
 
 ---
 
@@ -26,7 +26,6 @@
 
 * ☁️ Deploying **Flask** applications to **AWS** using **Terraform** and **Docker**.
 * 📦 Mastering **Kubernetes** orchestration and **Container** lifecycle management via **Helm** charts.
-* 🛠️ **Personal**: Building detailed 1:35 scale military models and exploring hardware optimization.
 
 ---
 

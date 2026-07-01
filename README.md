@@ -2,15 +2,29 @@
 <h3 align="center">Junior DevOps Engineer | Infrastructure - Cloud - Automation</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-121011?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-89E051?logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonec2&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-ALB-FF9900?logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-ASG-FF9900?logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-S3-569A31?logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-CloudFront-8C4FFF?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-ECS-FF9900?logo=amazonecs&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-EKS-326CE5?logo=amazoneks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-ECR-FF9900?logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-IAM-DD344C?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-VPC-8C4FFF?logo=amazonaws&logoColor=white" />
 </p>
 
 ---

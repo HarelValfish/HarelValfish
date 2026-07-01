@@ -54,9 +54,22 @@ I care about understanding systems end-to-end: from Linux internals and Bash scr
   <img src="https://raw.githubusercontent.com/harelvalfish/harelvalfish/output/github-snake-dark.svg" />
 </div>
 
----
+
 
 ## 💼 Software Projects
+
+### ARMOR/DB - Israeli Tank Database
+
+Full-stack tactical application for browsing and cataloguing Israeli armor. Dark-mode HUD aesthetic with targeting-reticle cards and animated detail views.
+
+- **Backend:** Node.js + Express - REST API with search, variant/era filters, and tank CRUD; MongoDB + Mongoose with embedded specifications schema
+- **Frontend:** React 18 + Vite, Tailwind CSS, Framer Motion - staggered grid reveals, shared-layout card-to-detail morphing, loading skeletons and toast notifications
+- **DevOps:** Docker Compose for full-stack local dev; GitHub Actions CI/CD pipeline building and pushing images to GHCR; Terraform and Kubernetes manifests for infrastructure
+- **AI:** Optional bulk importer via Groq (hosted 70B) or Ollama (local) - prompt to structured tank batch with review/edit step before saving
+
+> [Backend](https://github.com/HarelValfish/Tank_Database_Backend) - [Frontend](https://github.com/HarelValfish/Tank_Database_Frontend)
+
+---
 
 ### E-Commerce PC Accessories Website
 
@@ -80,8 +93,6 @@ Python banking application with a custom GUI and secure data logic.
 
 > [View on GitHub](https://github.com/toni7891/Argument-Capital)
 
----
-
 ## ☁️ Cloud
 
 **Certification target:** AWS Solutions Architect - Associate
@@ -90,7 +101,6 @@ Python banking application with a custom GUI and secure data logic.
 
 **Hands-on:** Deploying Flask applications to AWS using Terraform and Docker
 
----
 
 ## 🛠 Tech Stack
 
@@ -103,7 +113,6 @@ Python banking application with a custom GUI and secure data logic.
 | **Frontend** | HTML, CSS, JavaScript |
 | **Version Control** | Git, GitHub |
 
----
 
 ## 📈 Building Toward
 
@@ -112,7 +121,6 @@ Python banking application with a custom GUI and secure data logic.
 - Full CI/CD pipelines with Jenkins
 - Cloud-native, production-grade deployments on AWS
 
----
 
 ## 💡 Engineering Philosophy
 
@@ -120,14 +128,7 @@ Python banking application with a custom GUI and secure data logic.
 
 > *"Reliable infrastructure isn't built once - it's continuously tested and improved."*
 
----
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## 📬 Contact
 

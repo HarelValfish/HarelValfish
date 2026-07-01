@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harel Valfish</h1>
-<h3 align="center">Junior DevOps Engineer | Infrastructure • Cloud • Automation</h3>
+<h3 align="center">Junior DevOps Engineer | Infrastructure - Cloud - Automation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
@@ -17,7 +17,7 @@
 
 ## About Me
 
-Junior DevOps Engineer building infrastructure skills hands-on — containerized environments, cloud architecture, and automation pipelines.
+Junior DevOps Engineer building infrastructure skills hands-on - containerized environments, cloud architecture, and automation pipelines.
 
 I care about understanding systems end-to-end: from Linux internals and Bash scripting to scalable cloud design and production deployment.
 
@@ -36,6 +36,8 @@ I care about understanding systems end-to-end: from Linux internals and Bash scr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harelvalfish&theme=react-dark&hide_border=true" />
   <br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=harelvalfish.harelvalfish&left_color=grey&right_color=orange" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/harelvalfish/harelvalfish/output/github-snake-dark.svg" />
 </div>
 
 ---
@@ -46,8 +48,8 @@ I care about understanding systems end-to-end: from Linux internals and Bash scr
 
 Full-stack e-commerce platform for high-end PC peripherals.
 
-- **Backend:** Python Flask — REST endpoints, secure user authentication
-- **Frontend:** HTML, CSS, vanilla JavaScript — dynamic product catalog and shopping cart
+- **Backend:** Python Flask - REST endpoints, secure user authentication
+- **Frontend:** HTML, CSS, vanilla JavaScript - dynamic product catalog and shopping cart
 - **Features:** User session management, streamlined checkout flow, custom product listings
 
 > [View on GitHub](https://github.com/HarelValfish/Accessories-website)
@@ -58,7 +60,7 @@ Full-stack e-commerce platform for high-end PC peripherals.
 
 Python banking application with a custom GUI and secure data logic.
 
-- **Backend:** Python — business logic, account management, transaction handling
+- **Backend:** Python - business logic, account management, transaction handling
 - **Interface:** Custom GUI built without third-party UI frameworks
 - **Focus:** Data integrity and secure financial operations
 
@@ -68,7 +70,7 @@ Python banking application with a custom GUI and secure data logic.
 
 ## ☁️ Cloud
 
-**Certification target:** AWS Solutions Architect – Associate
+**Certification target:** AWS Solutions Architect - Associate
 
 **Studying:** VPC design, EC2 & Auto Scaling, IAM, S3, high-availability architecture, cost optimization
 
@@ -102,7 +104,14 @@ Python banking application with a custom GUI and secure data logic.
 
 > *"If you can't automate it, you don't fully understand it."*
 
-> *"Reliable infrastructure isn't built once — it's continuously tested and improved."*
+> *"Reliable infrastructure isn't built once - it's continuously tested and improved."*
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
